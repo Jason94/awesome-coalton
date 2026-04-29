@@ -16,6 +16,7 @@ Because Coalton is so new and undergoing active development, the Coalton ecosyst
 _(Note: Currently, because Coalton is undergoing active development and doesn't have a versioning scheme, it's hard to label Coalton libraries as "complete." As Coalton's versioning and distribution becomes more organized, these categories will be updated.)_
 
 **Table of Contents**
+- [Databases](#databases)
 - [Functional Programming](#functional-programming)
 - [Game Development](#game-development)
 - [Multithreading](#multithreading)
