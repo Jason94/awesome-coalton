@@ -22,6 +22,7 @@ _(Note: Currently, because Coalton is undergoing active development and doesn't 
 - [Game Development](#game-development)
 - [Math](#math)
 - [Multithreading](#multithreading)
+- [Web Development](#web-development)
 
 ## Compilers
 
@@ -50,3 +51,7 @@ _(Note: Currently, because Coalton is undergoing active development and doesn't 
 ## Multithreading
 
 - :green_circle: [coalton-io](https://github.com/Jason94/coalton-io) - Includes a suite of concurrency tools, including MVars, Atomics Variables, and an STM. The runtime provides structured concurrency and the ability to mask threads to control asynchronous stops.
+
+## Web Development
+
+- :yellow_circle: [coalton-clack](https://github.com/Jason94/coalton-clack) - Typed Clack wrapper for writing web applications in Coalton.
